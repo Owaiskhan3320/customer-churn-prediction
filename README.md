@@ -52,6 +52,5 @@ After evaluating multiple algorithms, the results indicate that **ensemble-based
 
 ##  Contact
 **Author:** Owais Khan  
-**Field:** Data Science  
 **Email:** (owaiskhan3320@gmail.com)  
 
